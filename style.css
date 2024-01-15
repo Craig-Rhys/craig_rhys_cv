@@ -432,5 +432,8 @@ footer {
 
 footer p {
     text-align: center;
-    
+}
+
+.section__pic-container .craig-rhys {
+    border-radius: 10rem;
 }
