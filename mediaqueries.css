@@ -18,6 +18,14 @@
         margin: 1.75rem;
     }
 
+    .nav-links-container{
+        margin-top: 1.75rem;
+    }
+
+    .contact-info-upper-container {
+        margin-bottom: 1.5rem;
+    }
+
 }
 
 @media screen and (max-width: 1200px) {
@@ -69,6 +77,14 @@ section {
 #about {
     margin: 1.75rem;
 }
+
+.nav-links-container{
+    margin-top: 1.75rem;
+}
+
+.contact-info-upper-container {
+    margin-bottom: 1.5rem;
+}
 }
 
 @media screen and (max-width: 600px) {
@@ -86,6 +102,7 @@ section {
     footer nav {
         height: fit-content;
         margin-bottom: 2rem;
+        margin-top: 4rem;
     }
     .about-containers, .contact-info-upper-container, .btn-container {
         flex-wrap: wrap;
@@ -141,5 +158,13 @@ section {
 
     #about {
         margin: 1.75rem;
+    }
+
+    .nav-links-container{
+        margin-top: 1.75rem;
+    }
+
+    .contact-info-upper-container {
+        margin-bottom: 1.5rem;
     }
 }
