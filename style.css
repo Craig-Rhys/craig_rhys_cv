@@ -210,7 +210,10 @@ section {
 
 .icon {
     cursor: pointer;
-    height: 2rem;
+    height: 4rem;
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
 }
 
 /* Buttons */
@@ -437,3 +440,4 @@ footer p {
 .section__pic-container .craig-rhys {
     border-radius: 10rem;
 }
+
